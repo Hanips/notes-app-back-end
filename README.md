@@ -77,10 +77,6 @@ notes-app-back-end/
 
 Feel free to fork this repository and submit a pull request with improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 **Built as a backend development practice using Hapi.js.** 🚀
